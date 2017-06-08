@@ -2,4 +2,6 @@ This is my first Hello!
 Git is complicate~!
 Master is great!
 Git tracks changes of files!
-Creating a new branch is quickly.
+Creating a new dev branch is quick.
+
+
